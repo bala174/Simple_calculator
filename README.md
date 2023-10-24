@@ -21,9 +21,9 @@ No installation is required. Simply open the "index.html" file in your web brows
 Open the "index.html" file in your web browser to start using the calculator.
 
 ## Input
--Enter the first number in the input field.
--Select the arithmetic operation from the dropdown menu.
--Enter the second number in the second input field.
+- Enter the first number in the input field.
+- Select the arithmetic operation from the dropdown menu.
+- Enter the second number in the second input field.
 
 ## Output
 The result of the calculation will be displayed below the input fields.
@@ -31,6 +31,6 @@ The result of the calculation will be displayed below the input fields.
 ### Contributing
 If you would like to contribute to the Simple Calculator with JavaScript project, please follow these steps:
 # Fork the repository.
--Create a new branch for your feature or bugfix.
--Make your changes and test them thoroughly.
--Submit a pull request to the original repository.
+- Create a new branch for your feature or bugfix.
+- Make your changes and test them thoroughly.
+- Submit a pull request to the original repository.
