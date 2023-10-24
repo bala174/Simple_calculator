@@ -30,7 +30,7 @@ The result of the calculation will be displayed below the input fields.
 
 ### Contributing
 If you would like to contribute to the Simple Calculator with JavaScript project, please follow these steps:
-# Fork the repository.
+#### Fork the repository.
 - Create a new branch for your feature or bugfix.
 - Make your changes and test them thoroughly.
 - Submit a pull request to the original repository.
