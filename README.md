@@ -11,6 +11,9 @@ The Simple Calculator with JavaScript is a web-based application that allows you
 - Multiplication
 - Division
 
+## Demo
+You can try the live demo here: [Simple_Calculator](https://bala174.github.io/Simple_calculator/).
+
 ## Usage
 
 ### Installation
