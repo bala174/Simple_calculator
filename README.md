@@ -36,4 +36,4 @@ If you would like to contribute to the Simple Calculator with JavaScript project
 #### Fork the repository.
 - Create a new branch for your feature or bugfix.
 - Make your changes and test them thoroughly.
-- Submit a pull request to the original repository.
+- Submit a pull request to me.
